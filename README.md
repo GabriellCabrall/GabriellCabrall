@@ -4,13 +4,13 @@
 - 😄 Pronouns: ele/dele
 
 <div align="center">
-  <a href="https://github.com/macieljuniormax">
+  <a href="https://github.com/GabriellCabrall">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabriellCabrall&count_private=false&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellCabrall&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center "style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Node" height= "30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gabriel-React" height= "30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -25,7 +25,7 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="http://api.whatsapp.com/send?phone=5561999044112" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a>
   <a href="https://www.instagram.com/cabralzin__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-cabral-b32090248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
