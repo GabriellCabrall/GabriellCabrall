@@ -1,7 +1,7 @@
 ## Olá! Eu sou Gabriel Cabral
 
-- 🌱 Atualmente estou estudando Node.js e React
-- 😄 Pronouns: ele/dele
+- Atualmente estou estudando Node.js e React
+- Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/GabriellCabrall">
