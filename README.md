@@ -1,7 +1,7 @@
-## Olá! Eu sou Gabriel Cabral
-
-- Atualmente estou estudando Node.js e React
-- Pronomes: ele/dele
+##
+<h1 align="center">
+  Olá👋 <br>Eu sou Gabriel Cabral!
+</h1>
 
 <div align="center">
   <a href="https://github.com/GabriellCabrall">
